@@ -12,7 +12,7 @@
 			<div class="col-xl-4 col-md-6 col-12 wow fadeIn">
 				<div class="about-img">
 					<img src="assets/img/junaid.png" alt="about image">
-					<a href="<?= ('contact')?>" class="ab_btn">Hire Me <img src="assets/img/icons/arrow-up.svg" alt="arrow"></a>
+					<a href="#" class="ab_btn">Hire Me <img src="assets/img/icons/arrow-up.svg" alt="arrow"></a>
 				</div>
 			</div><!-- End Col -->					
 			

@@ -9,18 +9,10 @@
 								<ul class="socail-link">
 									<li><a href="https://www.upwork.com/freelancers/~0161ae7d307de003ba" target="-blank"><i class='bx bxl-upwork'></i></a></li>
 									<li><a href="https://github.com/junaid1109" target="-blank"><i class='bx bxl-github'></i></a></li>
-									<li><a href="https://www.linkedin.com/in/junaid-akhtar-9873711a5/"><i class='bx bxl-linkedin'></i></a></li>
 								</ul>
 							</div>							
 						</div><!--- END COL -->		
 
-						<div class="col-xl-4 col-lg-4 col-md-6 col-12 wow fadeIn">						
-							<div class="footer-widget fcontact-info">	
-								<h4 class="fotter-title">Contact Info</h4>	
-								<p><a href="tel:+92 306 5179114">+92 306 5179114</a></p>
-								<p><a href="mailto:Junaidbhatti1109@gmail.com">Junaidbhatti1109@gmail.com</a></p>
-							</div>							
-						</div><!--- END COL -->	
 						
 
 					</div>
@@ -40,7 +32,6 @@
 									<li><a href="<?= ("about") ; ?>">About</a></li>
 									<li><a href="<?= ("services") ; ?>">Service</a></li>
 									<li><a href="<?= ("portfolio") ; ?>">Portfolio</a></li>
-									<li><a href="<?= ("contact") ; ?>">Contact</a></li>									
 								</ul>	
 							</div>							
 						</div><!--- END COL -->					

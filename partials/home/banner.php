@@ -10,8 +10,7 @@
                         Solution-oriented mindset, problem-solving enthusiasm, positive attitude 
                         towards challenges, overcoming obstacles with enthusiasm .
                     </p>
-                    <a href="<?= ("contact"); ?>" class="yellow_btn wow fadeInLeft">Hire Me</a>
-                    <a href="<?= ("assets/Junaid-Akhtar.pdf"); ?> " download class="normal_btn wow fadeInRight">Download CV</a>
+                    <a href="#" class="yellow_btn wow fadeInLeft">Hire Me</a>
                 </div>
             </div><!-- End Col -->
         </div>
