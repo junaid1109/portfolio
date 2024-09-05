@@ -1,0 +1,16 @@
+RewriteEngine On
+
+# Redirect if .php extension is accessed
+RewriteCond %{THE_REQUEST} \s/+[^.]+\.php[\s?] [NC]
+RewriteRule ^ - [R=404,L]
+
+# Handle requests without a file extension
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^([^\.]+)$ $1.php [L]
+
+# Custom 404 page for all other cases
+ErrorDocument 404 /404.php
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /404.php [L]
