@@ -4,7 +4,7 @@
 				<div class="row">
 					<div class="col-20 align-self-center">
 						<div class="site-logo">
-							<!-- <a href="index.html"><img src="assets/img/logo.svg" alt=""></a>          				 -->
+							<a href="index.html"><img src="assets/img/junaid.png" alt=""></a>          				
 							<a href="#" class="yellow_btn wow fadeInLeft">Hire Me</a>
 						</div>
 					</div><!--- END Col -->
